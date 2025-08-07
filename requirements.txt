@@ -3,4 +3,4 @@ pytesseract
 Pillow
 numpy
 matplotlib
-python-3.10
+python
