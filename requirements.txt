@@ -1,6 +1,6 @@
-opencv-python
-pytesseract
-Pillow
-numpy
-matplotlib
-python
+
+streamlit==1.28.0
+pytesseract==0.3.10
+opencv-python-headless==4.8.0.76  # Lightweight OpenCV
+Pillow==10.0.0  # Image processing
+numpy==1.24.3  # Typically required for OpenCV
