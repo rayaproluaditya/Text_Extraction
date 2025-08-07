@@ -1,4 +1,6 @@
-# ✅ Required Libraries
+
+import pytesseract
+pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'  # Linux path in Docker# ✅ Required Libraries
 import cv2
 import pytesseract
 import numpy as np
